@@ -7,5 +7,3 @@ Click the icons to access zoom tutorials on YouTube.
 
 #### Introduction to Python tutorial
 [![Alt text](https://img.youtube.com/vi/QRrVNJns9ig/0.jpg)](https://www.youtube.com/watch?v=QRrVNJns9ig&feature=youtu.be)
-
-https://www.youtube.com/watch?v=QRrVNJns9ig&feature=youtu.be
