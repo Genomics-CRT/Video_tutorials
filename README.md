@@ -17,4 +17,5 @@ Click the icons to access zoom tutorials on YouTube.
 
 ## Week 4
 #### Introduction to Python tutorial
-[![Alt text](https://img.youtube.com/vi/QK8thYMU0kw&t/0.jpg)](https://www.youtube.com/watch?v=QK8thYMU0kw&t&feature=youtu.be)
+https://www.youtube.com/watch?v=QK8thYMU0kw&t=207s
+[![Alt text](https://img.youtube.com/vi/QK8thYMU0kw/0.jpg)](https://www.youtube.com/watch?v=QK8thYMU0kw&feature=youtu.be)
