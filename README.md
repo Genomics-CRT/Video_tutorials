@@ -18,3 +18,11 @@ Click the icons to access zoom tutorials on YouTube.
 ## Week 4
 #### Introduction to Python tutorial
 [![Alt text](https://img.youtube.com/vi/QK8thYMU0kw/0.jpg)](https://www.youtube.com/watch?v=QK8thYMU0kw&feature=youtu.be)
+
+## Week 5
+#### Maths and Statistics in Python
+[![Alt text](https://img.youtube.com/vi/E3wC9O5roy4/0.jpg)](https://www.youtube.com/watch?v=E3wC9O5roy4&feature=youtu.be)
+
+## Week 6
+#### Machine Learning in Python
+[![Alt text](https://img.youtube.com/vi/nk_w1ecBcVA/0.jpg)](https://www.youtube.com/watch?v=nk_w1ecBcVA&feature=youtu.be)
