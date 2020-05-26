@@ -26,3 +26,6 @@ Click the icons to access zoom tutorials on YouTube.
 ## Week 6
 #### Machine Learning in Python
 [![Alt text](https://img.youtube.com/vi/nk_w1ecBcVA/0.jpg)](https://www.youtube.com/watch?v=nk_w1ecBcVA&feature=youtu.be)
+
+#### Machine Learning in R 
+[![Alt text](https://img.youtube.com/vi/tVo9t1h_Ua0/0.jpg)](https://www.youtube.com/watch?v=tVo9t1h_Ua0&feature=youtu.be)
